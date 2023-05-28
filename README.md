@@ -15,7 +15,7 @@ As a user, I want to obtain a token after I signin, so that I can re-authenticat
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/donnaada/basic-auth/actions)
+- [GitHub Actions ci/cd](https://github.com/donnaada/bearer-auth/actions)
 - [back-end server url](https://api-server-6a4s.onrender.com)
 -
 
